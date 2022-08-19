@@ -24,5 +24,3 @@ console.log(movieLibrary);
 //movieLibrary[1]= "Beatlejuice";
 //console.log(movielibrary);
  
-
-    
